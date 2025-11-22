@@ -72,3 +72,6 @@ The production build is emitted to the `build/` directory. Serve it with any sta
 - Environment-specific settings can be provided via standard `.env` files.
 
 <img width="1600" height="793" alt="image" src="https://github.com/user-attachments/assets/f6e02e48-a92b-4205-a8e0-918c632fcccb" />
+<img width="1905" height="798" alt="image" src="https://github.com/user-attachments/assets/a63e693e-a5a7-4277-bc26-8a96344e1b60" />
+<img width="1628" height="907" alt="image" src="https://github.com/user-attachments/assets/bb0d5d83-4fa0-4827-bae4-ad8e2055bef2" />
+
