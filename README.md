@@ -37,7 +37,6 @@ npm install
 ```bash
 npm run dev
 ```
-The dev server starts on http://localhost:3000 and opens automatically.
 
 ### Build for production
 ```bash
@@ -70,12 +69,4 @@ The production build is emitted to the `build/` directory. Serve it with any sta
 - **`build`**: Build the client for production
 
 ## Configuration
-- Environment-specific settings can be provided via standard `.env` files supported by Vite. Create `.env` or `.env.local` at the project root as needed.
-
-## Contributing
-- Fork the repo and create a feature branch
-- Commit with clear messages
-- Open a Pull Request describing your changes
-
-## License
-Specify your license here (e.g., MIT). If omitted, all rights are reserved by default.
+- Environment-specific settings can be provided via standard `.env` files.
